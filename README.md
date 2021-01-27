@@ -4,6 +4,6 @@ This repo includes mini projects I have completed in the 50 Projects in 50 Days 
 
 ### List of the projects
 
-| Project Name and Live Link           | Repo Link                   |
-| ------------------------------------ | --------------------------- |
-| 1. [Expanding Cards](live link here) | [repo link](repo link here) |
+| Project Name and Live Link                                     | Repo Link                                                                            |
+| -------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
+| 1. [Expanding Cards](https://expanding-cards-blue.vercel.app/) | [repo link](https://github.com/En-Jen/50-projects-50-days/tree/main/expanding-cards) |
