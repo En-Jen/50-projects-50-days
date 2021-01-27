@@ -1,6 +1,8 @@
 # Expanding Cards
 
-> Expanding cards with simple transition. This concept could be used for testimonials or FAQs.
+Expanding cards with simple transition. This concept could be used for testimonials or FAQs.
+
+Live Link: (https://expanding-cards-blue.vercel.app/)
 
 ## Screenshot
 
@@ -10,4 +12,4 @@
 
 - Flexbox for layout
 - CSS for transitions
-- JavaScript event listeners
+- JavaScript for event listeners
