@@ -2,7 +2,7 @@
 
 Content animates in from different directions when the user scrolls down and animates out when the user scrolls up. A lightweight scroll animation alternative to jQuery or Animate On Scroll Library.
 
-Live Link: ()
+Live Link: (https://scroll-animation-two.vercel.app/)
 
 ## Screenshot
 
